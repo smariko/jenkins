@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.17">
+<file name="/var/jenkins/workspace/calculator/src/main/java/com/mariko/calculator/CacheConfig.java">
+</file>
+<file name="/var/jenkins/workspace/calculator/src/main/java/com/mariko/calculator/Calculator.java">
+</file>
+<file name="/var/jenkins/workspace/calculator/src/main/java/com/mariko/calculator/CalculatorApplication.java">
+</file>
+<file name="/var/jenkins/workspace/calculator/src/main/java/com/mariko/calculator/CalculatorController.java">
+</file>
+</checkstyle>

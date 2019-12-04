@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.17">
+<file name="/var/jenkins/workspace/calculator/src/test/java/acceptance/AcceptanceTest.java">
+</file>
+<file name="/var/jenkins/workspace/calculator/src/test/java/acceptance/StepDefinitions.java">
+</file>
+<file name="/var/jenkins/workspace/calculator/src/test/java/com/mariko/calculator/CalculatorApplicationTests.java">
+</file>
+<file name="/var/jenkins/workspace/calculator/src/test/java/com/mariko/calculator/CalculatorTest.java">
+</file>
+</checkstyle>
